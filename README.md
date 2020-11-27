@@ -1,5 +1,8 @@
 # Fake115Upload_Python3
-原项目<a title="Fake115Upload" target="_blank" href="https://github.com/T3rry7f/Fake115Upload">Fake115Upload</a>运行环境是Python2，修改为Python3
+原项目<a title="Fake115Upload" target="_blank" href="https://github.com/T3rry7f/Fake115Upload">Fake115Upload</a>已经转为Python3，本项目不再维护
+
+
+==============================18 Sep===================================
 
 上传本地一个文件的功能不保证稳定性。
 
